@@ -317,11 +317,11 @@ Show a TA that you have the basic tests written for the Child model and that you
 
 14.  Now go back to the Child model and create a new method called `points_earned` that returns the points a child has earned for completed chores. Try this on your own first if you have time. If not or you are stuck, we will give you the method straight-up. (`inject` was covered in RubyMonk, but people still may not get it.) Make sure you understand the code below first before including it and ask a TA if you are unsure. Once you are comfortable with it, re-run the tests and see another one pass.
 
-    ```ruby
-      def points_earned
-        self.chores.done.inject(0){|sum,chore| sum += chore.task.points}
-      end 
-    ```
+```ruby
+def points_earned
+  self.chores.done.inject(0){|sum,chore| sum += chore.task.points}
+end 
+```
 
   Run all three model tests by executing `rails test test/models` on the command line and make sure everything is passing. 
 
