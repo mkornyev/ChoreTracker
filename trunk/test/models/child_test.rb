@@ -20,6 +20,7 @@ class ChildTest < ActiveSupport::TestCase
    end
 
    should "have name methods that list first_ and last_names combined" do
+     #byebug
      assert_equal "Alex Heimann", @alex.name
      assert_equal "Mark Heimann", @mark.name
      assert_equal "Rachel Heimann", @rachel.name
