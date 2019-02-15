@@ -60,11 +60,28 @@
       ],
       "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/task.rb": [
-        0,
-        0
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        3,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
       ],
       "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/controllers/application_controller.rb": [
         0,
@@ -318,6 +335,6 @@
         0
       ]
     },
-    "timestamp": 1550196179
+    "timestamp": 1550197064
   }
 }
