@@ -34,6 +34,53 @@
   },
   "Unit Tests": {
     "coverage": {
+      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/task.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        3,
+        2,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/chore.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        3,
+        2,
+        2,
+        3,
+        2,
+        2,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
       "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/child.rb": [
         1,
         null,
@@ -51,35 +98,8 @@
         3,
         2,
         null,
-        null
-      ],
-      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/application_record.rb": [
         1,
         1,
-        null
-      ],
-      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/chore.rb": [
-        1,
-        1,
-        1,
-        null
-      ],
-      "/Users/max/Documents/School/67272/LAB/l4/ChoreTracker.git/trunk/app/models/task.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        3,
-        2,
-        null,
-        null,
-        null,
-        null,
-        null,
         null,
         null
       ],
@@ -335,6 +355,6 @@
         0
       ]
     },
-    "timestamp": 1550197064
+    "timestamp": 1550271480
   }
 }
